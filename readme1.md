@@ -1,7 +1,7 @@
 # Hai, saya Ahmad Irsyad! 👋
 
 <p align="center">
-  <img src="[URL_gambar_anda]" width="200" alt="Ahmad Irsyad Profile Picture" />
+  <img src="profile.jpeg" width="200" alt="Ahmad Irsyad Profile Picture" />
 </p>
 
 ### 👨‍💻 Mengenai Saya
