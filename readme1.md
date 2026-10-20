@@ -20,5 +20,5 @@
 ---
 
 ### 📫 Hubungi Saya
-- 💼 **LinkedIn:** [Ahmad Irsyad](https://linkedin.com/in/username-anda)
-- 📧 **E-mel:** [irsyad-07@graduate.utm.my](mailto:emailanda@example.com)
+- 💼 **LinkedIn:** [Ahmad Irsyad bin Jamalludin](https://www.linkedin.com/in/ahmad-irsyad-bin-jamalludin-0aa523445/)
+- 📧 **E-mel:** [irsyad-07@graduate.utm.my](mailto:irsyad-07@graduate.utm.my)
